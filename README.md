@@ -1,4 +1,4 @@
-### Hello, Hi, Namaste 👋
+### 🔰Hello, Hi, Namaste 👋
  - 👦🏻 Male/he/him .
  - 🚩 I want to become the best.
 - <a href="https://sakshamjoshi.netlify.app/"><img src="https://img.shields.io/badge/Visit_my-Portfolio-blue" alt="Portfolio"></a>
