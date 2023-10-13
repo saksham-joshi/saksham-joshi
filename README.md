@@ -22,7 +22,6 @@
 <code> <img height="20" src="./images/dart.png" alt="Dart"> </code>
 <code> <img height="20" src="./images/php.png" alt="PHP"> </code>
 
-\
 
 
 
