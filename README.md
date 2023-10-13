@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello, Hi, Namaste 👋
+
+- 🔰 Visit My Portfolio : <a href="https://sakshamjoshi.netlify.app/"> here</a>
+- 🔰 <a href="mailto:social.sakshamjoshi@gmail.com"> <img src="https://img.shields.io/badge/-social.sakshamjoshi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=blue&link=mailto:social.sakshamjoshi@gmail.com" alt="social.sakshamjoshi@gmail.com"> </a>
+- 🔰 <a href="https://www.linkedin.com/in/sakshamjoshi27"> <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="Linkedin"> </a>
+- 🔰 <a href="https://twitter.com/Sakshamjoshi27"> <img src="https://img.shields.io/twitter/follow/SakshamJoshi" alt="Twitter(X)"> </a>
 
 <!--
 **saksham-joshi/saksham-joshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
