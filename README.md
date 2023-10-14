@@ -10,7 +10,7 @@
 -  <a href="https://twitter.com/Sakshamjoshi27"> <img src="https://img.shields.io/twitter/follow/SakshamJoshi" alt="Twitter(X)"> </a>
 
 \
-**Languages :**\
+**⩥ Languages :**\
 <code> <img height="20" src="./images/python.png" alt="Python"> </code>
 <code> <img height="20" src="./images/c++.png" alt="C++"> </code>
 <code> <img height="20" src="./images/java.png" alt="Java"> </code>
@@ -22,7 +22,7 @@
 <code> <img height="20" src="./images/php.png" alt="PHP"> </code>
 \
 \
-**Technologies & Tools :**\
+**⩥ Technologies & Tools :**\
 <code> <img height="20" src="./images/mongodb.png" alt="mongodb"> </code>
 <code> <img height="20" src="./images/css.png" alt="CSS"> </code>
 <code> <img height="20" src="./images/mysql.png" alt="Mysql"> </code>
