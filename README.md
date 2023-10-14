@@ -18,9 +18,19 @@
 <code> <img height="20" src="./images/csharp.png" alt="C#"> </code>
 <code> <img height="20" src="./images/javascript.png" alt="Javascript"> </code>
 <code> <img height="20" src="./images/html.png" alt="Html"> </code>
-<code> <img height="20" src="./images/css.png" alt="CSS"> </code>
 <code> <img height="20" src="./images/dart.png" alt="Dart"> </code>
 <code> <img height="20" src="./images/php.png" alt="PHP"> </code>
+\
+**Technologies & Tools :**\
+<code> <img height="20" src="./images/mongodb.png" alt="mongodb"> </code>
+<code> <img height="20" src="./images/css.png" alt="CSS"> </code>
+<code> <img height="20" src="./images/mysql.png" alt="Mysql"> </code>
+<code> <img height="20" src="./images/excel.png" alt="Excel"> </code>
+<code> <img height="20" src="./images/powerbi.png" alt="powerbi"> </code>
+<code> <img height="20" src="./images/tableau.png" alt="tableau"> </code>
+<code> <img height="20" src="./images/photoshop.png" alt="photoshop"> </code>
+<code> <img height="20" src="./images/audition.png" alt="audition"> </code>
+<code> <img height="20" src="./images/filmora.png" alt="filmora"> </code>
 
 
 
