@@ -1,6 +1,6 @@
 ### 👏🏻Hello, Hi, नमस्कार 🙏🏻
 ### 🔰 I am Saksham Joshi.
-- 🚩 I want to become the best.
+- 🚩 I want to be the best.
 - 👦🏻 Male/he/him .
 - 🌱 Currently learning C#
  
