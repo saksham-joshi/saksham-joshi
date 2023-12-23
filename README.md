@@ -1,6 +1,6 @@
 ### 👏🏻नमस्कार, Hello, Hi!🙏🏻
 ### 🔰 I am Saksham Joshi.
-- 🚩 striving for prefection.
+- 🚩 I have an ambition to become world' best programmer.
 - 👦🏻 Male/he/him .
 - 🌱 Currently learning C#
  
