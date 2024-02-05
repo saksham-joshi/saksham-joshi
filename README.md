@@ -10,6 +10,13 @@
 -  <a href="https://twitter.com/Sakshamjoshi27"> <img src="https://img.shields.io/twitter/follow/SakshamJoshi" alt="Twitter(X)"> </a>
 
 \
+**⩥ Skills :**
+- Interpreter Designing.
+- API Development.
+- Desktop Application Development.
+- Website Development.
+  
+\
 **⩥ Languages :**\
 <code> <img height="20" src="./images/python.png" alt="Python"> </code>
 <code> <img height="20" src="./images/c++.png" alt="C++"> </code>
