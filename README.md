@@ -13,6 +13,7 @@
 **⩥ Skills :**
 - Interpreter Designing.
 - API Development.
+- Data Analysis.
 - Desktop Application Development.
 - Website Development.
   
