@@ -4,7 +4,7 @@
 - 👦🏻 Male/he/him .
 - 🌱 Currently learning LLVM.
  
-- <a href="https://sakshamjoshi.netlify.app/"><img src="https://img.shields.io/badge/Visit_my-Portfolio-blue" alt="Portfolio"></a>
+- <a href="https://sakshamjoshi.vercel.app/"><img src="https://img.shields.io/badge/Visit_my-Portfolio-blue" alt="Portfolio"></a>
 -  <a href="mailto:social.sakshamjoshi@gmail.com"> <img src="https://img.shields.io/badge/-social.sakshamjoshi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=blue&link=mailto:social.sakshamjoshi@gmail.com" alt="social.sakshamjoshi@gmail.com"> </a>
 -  <a href="https://www.linkedin.com/in/sakshamjoshi27"> <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="Linkedin"> </a>
 -  <a href="https://twitter.com/Sakshamjoshi27"> <img src="https://img.shields.io/twitter/follow/SakshamJoshi" alt="Twitter(X)"> </a>
