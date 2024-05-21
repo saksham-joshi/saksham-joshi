@@ -1,8 +1,8 @@
 ### 👏🏻नमस्कार, Hello, Hi!🙏🏻
 ### 🔰 I am Saksham Joshi.
-- 🚩 I have an ambition to become world's best programmer.
+- 🚩 Developer of SRON programming language.
 - 👦🏻 Male/he/him .
-- 🌱 Currently learning Interpreter Designing.
+- 🌱 Currently learning LLVM.
  
 - <a href="https://sakshamjoshi.netlify.app/"><img src="https://img.shields.io/badge/Visit_my-Portfolio-blue" alt="Portfolio"></a>
 -  <a href="mailto:social.sakshamjoshi@gmail.com"> <img src="https://img.shields.io/badge/-social.sakshamjoshi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=blue&link=mailto:social.sakshamjoshi@gmail.com" alt="social.sakshamjoshi@gmail.com"> </a>
@@ -11,7 +11,7 @@
 
 \
 **⩥ Skills :**
-- Interpreter Designing.
+- Compiler & Interpreter Designing.
 - API Development.
 - Data Analysis.
 - Desktop Application Development.
