@@ -41,7 +41,7 @@
     </div>
 </a>
 
-### 
+---
 
 <h3 align="center">🛠 Tech & Tools 🛠</h3>
 
@@ -63,8 +63,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
 </div>
 
-###
-
 <br clear="both">
 
 <div align="center">
@@ -80,14 +78,8 @@
   <img width="12" />
 </div>
 
+---
 
-> ### <h2 style="display:flex; justify-content:center; align-items:center" align="center">Visitor Count :&nbsp; <img src="https://profile-counter.glitch.me/saksham-joshi/count.svg?"/></h2>
-
-<h3 align="center">⭐ Social Media ⭐</h3>
-
-###
-
-<br clear="both">
 
 <div align="center">
   
@@ -105,5 +97,10 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=000FFF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
+
+
+---
+
+> ### <h2 style="display:flex; justify-content:center; align-items:center" align="center">Visitor Count :&nbsp; <img src="https://profile-counter.glitch.me/saksham-joshi/count.svg?"/></h2>
 
 ---
