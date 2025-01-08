@@ -8,20 +8,19 @@
   <img height="200" src="./images/profile_photo.png"  />
 </div>
 
+---
+
 - 🔰 **I am Saksham Joshi from India🇮🇳.**
-- 🚩 **Developer of SRON programming language.**
 - 👦🏻 **Male/he/him.**
+- 🚩 **Developer of SRON programming language.**
 - 🌱 **Currently learning C and low-level programming.**
 - 🔰 **Aspire to become a great programmer.**
+---
 
-###
-
-<br clear="both">
 
 <h3 align="center">📊 GitHub Stats 📊</h3>
 
 ###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saksham-joshi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saksham-joshi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false" height="150" alt="languages graph"  />
@@ -62,8 +61,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="rust logo"  />
 </div>
 
 ###
@@ -81,13 +78,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
 
 > ### <h2 style="display:flex; justify-content:center; align-items:center" align="center">Visitor Count :&nbsp; <img src="https://profile-counter.glitch.me/saksham-joshi/count.svg?"/></h2>
 
-<h2 align="center">⭐ Social Media ⭐</h2>
+<h3 align="center">⭐ Social Media ⭐</h3>
 
 ###
 
@@ -110,5 +106,4 @@
   </a>
 </div>
 
-###
-
+---
