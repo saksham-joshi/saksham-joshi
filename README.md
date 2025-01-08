@@ -32,13 +32,13 @@
 
 <a href="https://github.com/saksham-joshi/SRON">
     <div align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saksham-joshi&repo=SRON&theme=algolia" height="115" alt="SRON" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saksham-joshi&repo=SRON&theme=algolia" height="100" alt="SRON" />
     </div>
 </a>
 
 <a href="https://github.com/saksham-joshi/Advance-C">
     <div align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saksham-joshi&repo=Advance-C&theme=algolia" height="115" alt="Advance-C" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saksham-joshi&repo=Advance-C&theme=algolia" height="100" alt="Advance-C" />
     </div>
 </a>
 
