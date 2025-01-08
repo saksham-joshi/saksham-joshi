@@ -22,7 +22,7 @@
 
 ###
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saksham-joshi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=saksham-joshi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=false" height="150" alt="stats graph"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saksham-joshi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -32,13 +32,13 @@
 
 <a href="https://github.com/saksham-joshi/SRON">
     <div align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saksham-joshi&repo=SRON&theme=algolia" height="125" alt="SRON" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saksham-joshi&repo=SRON&theme=algolia" height="115" alt="SRON" />
     </div>
 </a>
 
 <a href="https://github.com/saksham-joshi/Advance-C">
     <div align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saksham-joshi&repo=Advance-C&theme=algolia" height="125" alt="Advance-C" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saksham-joshi&repo=Advance-C&theme=algolia" height="115" alt="Advance-C" />
     </div>
 </a>
 
