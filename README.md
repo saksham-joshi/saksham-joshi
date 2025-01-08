@@ -1,60 +1,114 @@
-### 👏🏻नमस्कार, Hello, Hi!🙏🏻
-### 🔰 I am Saksham Joshi.
-- 🚩 Developer of SRON programming language.
-- 👦🏻 Male/he/him .
-- 🌱 Currently learning C and low-level programming.
- 
-- <a href="https://sakshamjoshi.vercel.app/"><img src="https://img.shields.io/badge/Visit_my-Portfolio-blue" alt="Portfolio"></a>
--  <a href="mailto:social.sakshamjoshi@gmail.com"> <img src="https://img.shields.io/badge/-social.sakshamjoshi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=blue&link=mailto:social.sakshamjoshi@gmail.com" alt="social.sakshamjoshi@gmail.com"> </a>
--  <a href="https://www.linkedin.com/in/sakshamjoshi27"> <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="Linkedin"> </a>
--  <a href="https://twitter.com/Sakshamjoshi27"> <img src="https://img.shields.io/twitter/follow/SakshamJoshi" alt="Twitter(X)"> </a>
+<h1 align="center">🙏🏻नमस्कार, Hello, Hi!👋🏻</h1>
 
-\
-**⩥ Skills :**
-- Compiler & Interpreter Designing.
-- API Development.
-- Data Analysis.
-- Desktop Application Development.
-- Website Development.
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="200" src="./images/profile_photo.png"  />
+</div>
+
+- 🔰 **I am Saksham Joshi from India🇮🇳.**
+- 🚩 **Developer of SRON programming language.**
+- 👦🏻 **Male/he/him.**
+- 🌱 **Currently learning C and low-level programming.**
+- 🔰 **Aspire to become a great programmer.**
+
+###
+
+<br clear="both">
+
+<h3 align="center">📊 GitHub Stats 📊</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saksham-joshi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saksham-joshi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+<h3 align="center">🥇 Top GitHub Repo 🥇</h3>
+
+###
+
+<a href="https://github.com/saksham-joshi/SRON">
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saksham-joshi&repo=SRON&theme=algolia" height="125" alt="SRON" />
   
-\
-**⩥ Languages :**\
-<code> <img height="20" src="./images/python.png" alt="Python"> </code>
-<code> <img height="20" src="./images/c++.png" alt="C++"> </code>
-<code> <img height="20" src="./images/java.png" alt="Java"> </code>
-<code> <img height="20" src="./images/c_language.png" alt="C"> </code>
-<code> <img height="20" src="./images/csharp.png" alt="C#"> </code>
-<code> <img height="20" src="./images/javascript.png" alt="Javascript"> </code>
-<code> <img height="20" src="./images/html.png" alt="Html"> </code>
-<code> <img height="20" src="./images/dart.png" alt="Dart"> </code>
-<code> <img height="20" src="./images/php.png" alt="PHP"> </code>
-\
-\
-**⩥ Technologies & Tools :**\
-<code> <img height="20" src="./images/mongodb.png" alt="mongodb"> </code>
-<code> <img height="20" src="./images/css.png" alt="CSS"> </code>
-<code> <img height="20" src="./images/mysql.png" alt="Mysql"> </code>
-<code> <img height="20" src="./images/excel.png" alt="Excel"> </code>
-<code> <img height="20" src="./images/powerbi.png" alt="powerbi"> </code>
-<code> <img height="20" src="./images/tableau.png" alt="tableau"> </code>
-<code> <img height="20" src="./images/photoshop.png" alt="photoshop"> </code>
-<code> <img height="20" src="./images/audition.png" alt="audition"> </code>
-<code> <img height="20" src="./images/filmora.png" alt="filmora"> </code>
+</a>
+
+<a href="https://github.com/saksham-joshi/Advance-C">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saksham-joshi&repo=Advance-C&theme=algolia" height="125" alt="Advance-C" />
+    </div>
+</a>
+
+### 
+
+<h3 align="center">🛠 Tech & Tools 🛠</h3>
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="rust logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+</div>
 
 
+> ### <h2 style="display:flex; justify-content:center; align-items:center" align="center">Visitor Count :&nbsp; <img src="https://profile-counter.glitch.me/saksham-joshi/count.svg?"/></h2>
 
+<h2 align="center">⭐ Social Media ⭐</h2>
 
-<!--
-**saksham-joshi/saksham-joshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<br clear="both">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  
+  <a href="mailto:social.sakshamjoshi@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/sakshamjoshi27/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.twitter.com/sakshamjoshi27/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+  
+  <a href="https://www.instagram.com/sakshamjoshi27/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=000FFF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
