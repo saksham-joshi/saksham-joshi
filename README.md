@@ -10,7 +10,7 @@
 
 ---
 
-- 🔰 **I am Saksham Joshi from India🇮🇳.**
+- 🔰 **I am Saksham Joshi from India 🇮🇳.**
 - 👦🏻 **Male/he/him.**
 - 🚩 **Developer of SRON programming language.**
 - 🌱 **Currently learning C and low-level programming.**
