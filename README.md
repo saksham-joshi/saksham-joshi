@@ -10,11 +10,11 @@
 
 ---
 
-- 🔰 **I am Saksham Joshi from India 🇮🇳.**
-- 👦🏻 **Male/he/him.**
-- 🚩 **Developer of SRON programming language.**
-- 🌱 **Currently learning C and low-level programming.**
-- 🔰 **Aspire to become a great programmer.**
+- #### 🔰 **I am Saksham Joshi from India 🇮🇳.**
+- #### 👦🏻 **Male/he/him.**
+- #### 🚩 **Developer of SRON programming language.**
+- #### 🌱 **Currently learning C and low-level programming.**
+- #### 🔰 **Aspire to become a great programmer.**
 ---
 
 
@@ -26,30 +26,35 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saksham-joshi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<h3 align="center">🥇 Top GitHub Repo 🥇</h3>
+<br both="center">
 
-###
+<div>
 
-<a href="https://github.com/saksham-joshi/SRON">
-    <div align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saksham-joshi&repo=SRON&theme=algolia" height="125" alt="SRON" />
-    </div>
-</a>
 
-<a href="https://github.com/saksham-joshi/Advance-C">
-    <div align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saksham-joshi&repo=Advance-C&theme=algolia" height="125" alt="Advance-C" />
-    </div>
-</a>
+  <h3 align="center">🥇 Top GitHub Repo 🥇</h3>
+
+  ###
+
+  <a href="https://github.com/saksham-joshi/SRON">
+      <div align="center">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saksham-joshi&repo=SRON&theme=algolia" height="125" alt="SRON" />
+      </div>
+  </a>
+
+  <a href="https://github.com/saksham-joshi/Advance-C">
+      <div align="center">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saksham-joshi&repo=Advance-C&theme=algolia" height="125" alt="Advance-C" />
+      </div>
+  </a>
 
 ---
 
-<h3 align="center">🛠 Tech & Tools 🛠</h3>
+  <h3 align="center">🛠 Tech & Tools 🛠</h3>
 
-<br clear="both">
+  <br clear="both">
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <div align="center">
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
@@ -59,12 +64,19 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  /> -->
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js" alt="programming-languages">
+  
+  <br clear="both">
+
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,linux,windows,flask,vercel,netlify" alt="tools">
+
+  </div>
+
 
 <br clear="both">
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
@@ -75,7 +87,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
   <img width="12" />
-</div>
+</div> -->
 
 ---
 
