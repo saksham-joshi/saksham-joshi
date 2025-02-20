@@ -5,16 +5,16 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="./images/profile_photo.png"  />
+  <img height="250" src="./assets/saksham-rounded-corner.png"  />
 </div>
 
 ---
 
-- #### 🔰 **I am Saksham Joshi from India 🇮🇳.**
-- #### 👦🏻 **Male/he/him.**
-- #### 🚩 **Developer of SRON programming language.**
-- #### 🌱 **Currently learning C and low-level programming.**
-- #### 🔰 **Aspire to become a great programmer.**
+- ### 🔰 **I am Saksham Joshi from India 🇮🇳.**
+- ### 👦🏻 **Male/he/him.**
+- ### 🚩 **Developer of SRON programming language.**
+- ### 🌱 **Currently learning C and low-level programming.**
+- ### 🔰 **Aspire to become a great programmer.**
 ---
 
 
@@ -29,23 +29,6 @@
 <br both="center">
 
 <div>
-
-
-  <h3 align="center">🥇 Top GitHub Repo 🥇</h3>
-
-  ###
-
-  <a href="https://github.com/saksham-joshi/SRON">
-      <div align="center">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saksham-joshi&repo=SRON&theme=algolia" height="125" alt="SRON" />
-      </div>
-  </a>
-
-  <a href="https://github.com/saksham-joshi/Advance-C">
-      <div align="center">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saksham-joshi&repo=Advance-C&theme=algolia" height="125" alt="Advance-C" />
-      </div>
-  </a>
 
 ---
 
