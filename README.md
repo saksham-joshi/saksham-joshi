@@ -48,7 +48,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  /> -->
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js" alt="programming-languages">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js" alt="programming-languages">
   
   <br clear="both">
 
