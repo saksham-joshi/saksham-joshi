@@ -52,7 +52,7 @@
   
   <br clear="both">
 
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,linux,windows,flask,vercel,netlify" alt="tools">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,linux,windows,flask,vercel,markdown" alt="tools">
 
   </div>
 
