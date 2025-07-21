@@ -13,7 +13,7 @@
 - ### 🔰 **I am Saksham Joshi from India 🇮🇳.**
 - ### 👦🏻 **Male/he/him.**
 - ### 🚩 **Developer of SRON programming language.**
-- ### 🌱 **Currently learning C and low-level programming.**
+- ### 🌱 **Currently learning Rust programming language.**
 - ### 🔰 **Aspire to become a great programmer.**
 ---
 
@@ -107,4 +107,8 @@
 
 ---
 
-> ### <h2 style="display:flex; justify-content:center; align-items:center" align="center">Visitor Count :&nbsp; <img src="https://profile-counter.glitch.me/saksham-joshi/count.svg?"/></h2>
+<div align="center">
+
+<img height="40" src="https://komarev.com/ghpvc/?username=saksham-joshi&label=PROFILE+VIEWS&style=for-the-badge&color=blue&base=2400" alt="profile-visit-count">
+
+</div>
