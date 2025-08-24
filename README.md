@@ -13,7 +13,7 @@
 - ### 🔰 **I am Saksham Joshi from India 🇮🇳.**
 - ### 👦🏻 **Male/he/him.**
 - ### 🚩 **Developer of SRON programming language.**
-- ### 🌱 **Currently learning Rust programming language.**
+- ### 🌱 **Currently learning Rust, Linux and MERN.**
 - ### 🔰 **Aspire to become a great programmer.**
 ---
 
