@@ -5,7 +5,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="250" src="./assets/SakshamJoshi-bw-rounded-corner.png"  />
+  <img height="250" src="./assets/saksham-rounded-corner.png"  />
 </div>
 
 ---
