@@ -50,11 +50,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  /> -->
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,rust" alt="programming-languages">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,typescript,js,rust" alt="programming-languages">
   
   <br clear="both">
 
-  <img src="https://skillicons.dev/icons?i=vscode,bash,linux,mint,flask,vercel,markdown" alt="tools">
+  <img src="https://skillicons.dev/icons?i=nextjs,linux,mint,flask,fastapi,vercel,markdown" alt="tools">
 
   </div>
 
