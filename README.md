@@ -4,7 +4,7 @@
 
 # 🙏🏻 नमस्कार • Hello • Hi! 👋🏻
 
-<img src="./assets/SakshamJoshi-bw-rounded-corner.png" alt="Saksham Joshi" width="200" style="border-radius: 25%; border: 8px double #23afe0"/>
+<img src="./assets/SakshamJoshi-bw-rounded-corner.png" alt="Saksham Joshi" width="200" style="border-radius: 25%;border: 8px double #23afe0"/>
 
 ### Software Developer | Self-Taught | Enjoys Coding
 
@@ -163,7 +163,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=saksham-joshi" alt="Profile-views" width="30%">
 
-<br/>
+<br/><br/>
 
 > **⭐ Follow [saksham-joshi](https://github.com/saksham-joshi) with 🩵**
 
