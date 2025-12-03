@@ -84,7 +84,7 @@
   </tr>
   <tr>
     <td width="50%" align="center">
-      <h3>🎨 Unite Wings</h3>
+      <h3>📟 Unite Wings</h3>
       <a href="https://github.com/saksham-joshi/Unite-Wings">
         <img src="https://img.shields.io/badge/View-Repository-0969da?style=for-the-badge&logo=github" />
       </a>
@@ -152,19 +152,17 @@
 
 <div align="center">
 
-### 💭 Random Dev Quote
+<!-- ### 💭 Random Dev Quote
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
-
----
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia) -->
 
 
 ## *"Expect the unexpected expectations from yourself."* 
 
-<img src="https://komarev.com/ghpvc/?username=saksham-joshi" alt="Profile-views" width="30%">
+<img src="https://komarev.com/ghpvc/?username=saksham-joshi" alt="Profile-views" width="200px">
 
-<br/><br/>
+***
 
-> **⭐ Follow [saksham-joshi](https://github.com/saksham-joshi) with 🩵**
+> #### **⭐ Follow [saksham-joshi](https://github.com/saksham-joshi) with 🩵**
 
 </div>
