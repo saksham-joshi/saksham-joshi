@@ -45,7 +45,9 @@
 
 <div align="center">
   
-![GitHub Streak](https://streak-stats.demolab.com/?user=saksham-joshi&theme=algolia&hide_border=true)
+<!-- ![GitHub Streak](https://streak-stats.demolab.com/?user=saksham-joshi&theme=algolia&hide_border=true) -->
+
+![GitHub Streak](https://streak-stats.demolab.com?user=saksham-joshi&theme=algolia&hide_border=true&mode=weekly)
 
 </div>
 
