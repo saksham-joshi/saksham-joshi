@@ -4,7 +4,7 @@
 
 # 🙏🏻 नमस्कार • Hello • Hi! 👋🏻
 
-<img src="./assets/SakshamJoshi-bw-rounded-corner.png" alt="Saksham Joshi" width="200" style="border-radius: 25%;border: 8px double #23afe0"/>
+<img src="./assets/SakshamJoshi-bw-rounded-corner.png" alt="Saksham Joshi" width="200" style="border-radius: 25%" border="4px solid #23afe0"/>
 
 ### Software Developer | Self-Taught | Enjoys Coding
 
@@ -39,17 +39,17 @@
 
   </div>
 
----
+<!-- ---
 
 ## 📈 GitHub Activity
 
 <div align="center">
   
-<!-- ![GitHub Streak](https://streak-stats.demolab.com/?user=saksham-joshi&theme=algolia&hide_border=true) -->
+ ![GitHub Streak](https://streak-stats.demolab.com/?user=saksham-joshi&theme=algolia&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=saksham-joshi&theme=algolia&hide_border=true&mode=weekly)
 
-</div>
+</div> -->
 
 ---
 
@@ -124,7 +124,7 @@
 
 </div>
 
----
+<!-- ---
 
 ## 🏅 Achievements
 
@@ -132,7 +132,7 @@
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=saksham-joshi&theme=algolia&no-frame=true&no-bg=true&row=1&column=7)
 
-</div>
+</div> -->
 
 ---
 
