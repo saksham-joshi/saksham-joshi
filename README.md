@@ -4,9 +4,9 @@
 
 # 🙏🏻 नमस्कार • Hello • Hi! 👋🏻
 
-<img src="./assets/SakshamJoshi-bw-rounded-corner.png" alt="Saksham Joshi" width="200" style="border-radius: 25%" border="4px solid #23afe0"/>
+<img src="./assets/SakshamJoshi-bw-rounded-corner.png" alt="Saksham Joshi" width="200"/>
 
-### Software Developer | Self-Taught | Enjoys Coding
+### Software Engineer | Self-Taught | Enjoys Coding
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0969da?style=flat-square&logo=google-chrome&logoColor=white)](https://sakshamjoshi.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshamjoshi27/)
