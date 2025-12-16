@@ -120,7 +120,7 @@
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saksham-joshi&theme=github-compact&hide_border=true&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saksham-joshi&theme=react-dark&hide_border=true&area=true)
 
 </div>
 
