@@ -4,7 +4,7 @@
 
 # 🙏🏻 नमस्कार • Hello • Hi! 👋🏻
 
-<img src="./assets/SakshamJoshi-bw-rounded-corner.png" alt="Saksham Joshi" width="200"/>
+<!-- <img src="./assets/SakshamJoshi-bw-rounded-corner.png" alt="Saksham Joshi" width="200"/> -->
 
 ### Software Engineer | Self-Taught | Enjoys Coding
 
