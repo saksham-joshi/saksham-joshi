@@ -35,7 +35,7 @@
   
   <br clear="both">
 
-  <img src="https://skillicons.dev/icons?i=nextjs,linux,mint,flask,fastapi,vercel,markdown" alt="tools">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,linux,mint,flask,fastapi,vercel,markdown" alt="tools">
 
   </div>
 
@@ -124,7 +124,7 @@
 
 </div>
 
-<!-- ---
+---
 
 ## 🏅 Achievements
 
@@ -132,7 +132,7 @@
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=saksham-joshi&theme=algolia&no-frame=true&no-bg=true&row=1&column=7)
 
-</div> -->
+</div>
 
 ---
 
