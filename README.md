@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
   </a>
   <a href="https://github.com/saksham-joshi">
-  <img src="https://komarev.com/ghpvc/?username=saksham-joshi" alt="Profile-views: 27062003" height="29px" />
+  <img src="https://komarev.com/ghpvc/?username=saksham-joshi" alt="Profile-views: 27062003" />
   </a>
 </p>
 
@@ -123,13 +123,11 @@
 
 </div>
 
-
 ![Line](./assets/gif/animated-line.gif)
 
 <div align="center">
 
 ## _"Expect the unexpected expectations from yourself."_
-
 
 <img src="./assets/svg/follow.svg">
 
