@@ -1,6 +1,6 @@
 <div align="center">
 
-[![GitCatRainbow](./assets/gif/gitcat.gif)](https://sakshamjoshi.vercel.app)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12&height=250&section=header&text=SAKSHAM%20JOSHI&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Loves%20Open-source%20Contributions%20%7C%20Leveling%20daily&descSize=18&descAlignY=55&descAlign=50)
 
 <img src="./assets/svg/namaskar.svg" />
 
@@ -24,6 +24,9 @@
   </a>
   <a href="mailto:social.sakshamjoshi@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
+  </a>
+  <a href="https://github.com/saksham-joshi">
+  <img src="https://komarev.com/ghpvc/?username=saksham-joshi" alt="Profile-views: 27062003" height="29px" />
   </a>
 </p>
 
@@ -127,13 +130,11 @@
 
 ## _"Expect the unexpected expectations from yourself."_
 
-<img src="https://komarev.com/ghpvc/?username=saksham-joshi" alt="Profile-views" width="200px">
-
----
 
 <img src="./assets/svg/follow.svg">
 
+<img src="./assets/gif/gitcat.gif">
+
+<img src="./assets/gif/animated-line.gif">
+
 </div>
-
-
----
