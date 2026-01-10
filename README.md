@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" height="28px" alt="Email"/>
   </a>
   <a href="https://github.com/saksham-joshi">
-  <img src="https://komarev.com/ghpvc/?username=saksham-joshi" height="28px" alt="Profile-views: 27062003" />
+  <img src="https://komarev.com/ghpvc/?username=saksham-joshi&color=blueviolet&style=flat-square" height="40px" alt="Profile-views: 27062003" />
   </a>
 </p>
 
