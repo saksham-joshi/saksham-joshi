@@ -1,33 +1,51 @@
 <div align="center">
 
-[![Header](https://media1.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)](https://sakshamjoshi.vercel.app)
+[![GitCatRainbow](./assets/gitcat.gif)](https://sakshamjoshi.vercel.app)
 
-# 🙏🏻 नमस्कार • Hello • Hi! 👋🏻
+![Greetings](https://readme-typing-svg.demolab.com?font=Montserrat&size=41&duration=3000&center=true&vCenter=true&multiline=true&width=500&height=75&lines=%F0%9F%99%8F%F0%9F%8F%BB+%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0+%E2%80%A2+Hello+%E2%80%A2+Hi!+%F0%9F%91%8B%F0%9F%8F%BB)
 
-<!-- <img src="./assets/SakshamJoshi-bw-rounded-corner.png" alt="Saksham Joshi" width="200"/> -->
+<h3>
+  Software Engineer | Self-Taught | Enjoying Open Source Contributions
+</h3>
 
-### Software Engineer | Self-Taught | Enjoys Coding
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0969da?style=flat-square&logo=google-chrome&logoColor=white)](https://sakshamjoshi.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshamjoshi27/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/sakshamjoshi27/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:social.sakshamjoshi@gmail.com)
+<!-- Social Media Badges -->
+<p>
+  <a href="https://sakshamjoshi.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&labelColor=000000" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sakshamjoshi27/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.twitter.com/sakshamjoshi27/">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter"/>
+  </a>
+  <a href="https://www.instagram.com/sakshamjoshi27/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
+  </a>
+  <a href="mailto:social.sakshamjoshi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
+  </a>
+</p>
 
 </div>
 
----
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-## 👨‍💻 About Me
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&duration=1000&pause=1000&center=true&vCenter=true&width=435&lines=About+Me+👨🏻‍💻" alt="About Me" />
+</div>
 
 - 🚩 **Creator & Developer** of [SRON Programming Language](https://sronlang.github.io)
-- 🌱 Currently diving deep into **Rust**, **Linux internals**, and **MERN stack**
+- 🌱 Currently diving deep into **Linux internals**, and **MERN stack**
 - 💡 Passionate about **compiler design**, **systems programming**, and **web development**
 - 🎯 Always learning, always building, always improving
 - 🤝 Open to collaborating on interesting projects
 
----
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-## 🛠️ Tech Stack
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&duration=1000&pause=1000&center=true&vCenter=true&width=435&lines=Tech+Stack+💻" alt="Tech Stack" />
+</div>
 
 <div align="center">
 
@@ -37,33 +55,23 @@
 
   <img src="https://skillicons.dev/icons?i=nextjs,react,linux,mint,flask,fastapi,vercel,markdown" alt="tools">
 
-  </div>
+</div>
 
-<!-- ---
-
-## 📈 GitHub Activity
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <div align="center">
-  
- ![GitHub Streak](https://streak-stats.demolab.com/?user=saksham-joshi&theme=algolia&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=saksham-joshi&theme=algolia&hide_border=true&mode=weekly)
-
-</div> -->
-
----
-
-## 🏆 Featured Projects
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&duration=1000&pause=1000&center=true&vCenter=true&width=435&lines=Featured+Projects+🏆" alt="Featured Projects" />
+</div>
 
 <table align="center">
   <tr>
     <td width="50%" align="center">
       <h3>🚀 SRON Programming Language</h3>
       <a href="https://github.com/saksham-joshi/SRON">
-        <img src="https://img.shields.io/badge/View-Repository-0969da?style=for-the-badge&logo=github" />
+        <img src="https://img.shields.io/badge/View-Repository-00cbea?style=for-the-badge&logo=github" />
       </a>
       <p><strong>High-level, compiled + interpreted language</strong></p>
-      <p>Built from scratch with vector-based compiler design</p>
+      <p>Simple and Fast language developed using C++</p>
       <p>
         <img src="https://img.shields.io/github/stars/saksham-joshi/SRON?style=social" />
         <img src="https://img.shields.io/github/forks/saksham-joshi/SRON?style=social" />
@@ -74,7 +82,7 @@
     <td width="50%" align="center">
       <h3>🎨 Nova Portfolio</h3>
       <a href="https://github.com/saksham-joshi/NovaPortfolio">
-        <img src="https://img.shields.io/badge/View-Repository-0969da?style=for-the-badge&logo=github" />
+        <img src="https://img.shields.io/badge/View-Repository-07beb8?style=for-the-badge&logo=github" />
       </a>
       <p><strong>Beautiful ASMR-like Portfolio</strong></p>
       <p>Clean and responsive portfolio designed for developers using ReactJS</p>
@@ -100,23 +108,11 @@
   </tr>
 </table>
 
----
-
-## 🎯 Current Focus
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <div align="center">
-
-| 🦀 Rust | 🐧 Linux | 💻 MERN Stack |
-|---------|----------|---------------|
-| Systems Programming | Kernel Development | Full Stack Web Apps |
-| Memory Safety | Shell Scripting | RESTful APIs |
-| Performance Optimization | System Administration | Modern UI/UX |
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&duration=1000&pause=1000&center=true&vCenter=true&width=435&lines=Contribution+Graph+📈" alt="Contribution Graph" />
 </div>
-
----
-
-## 📊 Contribution Graph
 
 <div align="center">
 
@@ -124,47 +120,16 @@
 
 </div>
 
-<!-- ---
 
-## 🏅 Achievements
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=saksham-joshi&theme=algolia&no-frame=true&no-bg=true&row=1&column=7)
-
-</div> -->
-
----
-
-## 🤝 Let's Connect!
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <div align="center">
 
-**_I'm always excited to connect with fellow developers, collaborate on interesting projects, or just have a chat about technology!_**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sakshamjoshi.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshamjoshi27/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/sakshamjoshi27/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sakshamjoshi27/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:social.sakshamjoshi@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-<!-- ### 💭 Random Dev Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia) -->
-
-
-## *"Expect the unexpected expectations from yourself."* 
+## _"Expect the unexpected expectations from yourself."_
 
 <img src="https://komarev.com/ghpvc/?username=saksham-joshi" alt="Profile-views" width="200px">
 
-***
-
-> #### **⭐ Follow [saksham-joshi](https://github.com/saksham-joshi) with 🩵**
+---
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&duration=2000&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Follow+Saksham+Joshi+with+%F0%9F%A9%B5)
 
 </div>
