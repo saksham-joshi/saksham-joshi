@@ -1,8 +1,8 @@
 <div align="center">
 
-[![GitCatRainbow](./assets/gitcat.gif)](https://sakshamjoshi.vercel.app)
+[![GitCatRainbow](./assets/gif/gitcat.gif)](https://sakshamjoshi.vercel.app)
 
-![Greetings](https://readme-typing-svg.demolab.com?font=Montserrat&size=41&duration=3000&center=true&vCenter=true&multiline=true&width=500&height=75&lines=%F0%9F%99%8F%F0%9F%8F%BB+%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0+%E2%80%A2+Hello+%E2%80%A2+Hi!+%F0%9F%91%8B%F0%9F%8F%BB)
+<img src="./assets/svg/namaskar.svg" />
 
 <h3>
   Software Engineer | Self-Taught | Enjoying Open Source Contributions
@@ -29,10 +29,10 @@
 
 </div>
 
-![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+![Line](./assets/gif/animated-line.gif)
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&duration=1000&pause=1000&center=true&vCenter=true&width=435&lines=About+Me+👨🏻‍💻" alt="About Me" />
+<img src="./assets/svg/about-me.svg" alt="About Me" />
 </div>
 
 - 🚩 **Creator & Developer** of [SRON Programming Language](https://sronlang.github.io)
@@ -41,10 +41,10 @@
 - 🎯 Always learning, always building, always improving
 - 🤝 Open to collaborating on interesting projects
 
-![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+![Line](./assets/gif/animated-line.gif)
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&duration=1000&pause=1000&center=true&vCenter=true&width=435&lines=Tech+Stack+💻" alt="Tech Stack" />
+<img src="./assets/svg/tech-stack.svg" alt="Tech Stack" />
 </div>
 
 <div align="center">
@@ -57,10 +57,10 @@
 
 </div>
 
-![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+![Line](./assets/gif/animated-line.gif)
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&duration=1000&pause=1000&center=true&vCenter=true&width=435&lines=Featured+Projects+🏆" alt="Featured Projects" />
+<img src="./assets/svg/featured-projects.svg" alt="Featured Projects" />
 </div>
 
 <table align="center">
@@ -108,10 +108,10 @@
   </tr>
 </table>
 
-![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+![Line](./assets/gif/animated-line.gif)
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&duration=1000&pause=1000&center=true&vCenter=true&width=435&lines=Contribution+Graph+📈" alt="Contribution Graph" />
+<img src="./assets/svg/contribution-graph.svg" alt="Contribution Graph" />
 </div>
 
 <div align="center">
@@ -121,7 +121,7 @@
 </div>
 
 
-![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+![Line](./assets/gif/animated-line.gif)
 
 <div align="center">
 
@@ -130,6 +130,10 @@
 <img src="https://komarev.com/ghpvc/?username=saksham-joshi" alt="Profile-views" width="200px">
 
 ---
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&duration=2000&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Follow+Saksham+Joshi+with+%F0%9F%A9%B5)
+
+<img src="./assets/svg/follow.svg">
 
 </div>
+
+
+---
