@@ -49,11 +49,25 @@
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,typescript,js,rust" alt="programming-languages">
-  
-  <br clear="both">
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![SRON](https://img.shields.io/badge/SRON-00cbea?style=for-the-badge)
 
-  <img src="https://skillicons.dev/icons?i=nextjs,react,linux,mint,flask,fastapi,vercel,markdown" alt="tools">
+<br both="clear">
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 </div>
 
@@ -89,20 +103,6 @@
       <p>
         <img src="https://img.shields.io/github/stars/saksham-joshi/NovaPortfolio?style=social" />
         <img src="https://img.shields.io/github/forks/saksham-joshi/NovaPortfolio?style=social" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <h3>📟 Unite Wings</h3>
-      <a href="https://github.com/saksham-joshi/Unite-Wings">
-        <img src="https://img.shields.io/badge/View-Repository-0969da?style=for-the-badge&logo=github" />
-      </a>
-      <p><strong>Beautiful Website developed for Unite Wings Educational Confederation</strong></p>
-      <p>Clean, responsive and modularized design developed using NextJS</p>
-      <p>
-        <img src="https://img.shields.io/github/stars/saksham-joshi/Unite-Wings?style=social" />
-        <img src="https://img.shields.io/github/forks/saksham-joshi/Unite-Wings?style=social" />
       </p>
     </td>
   </tr>
