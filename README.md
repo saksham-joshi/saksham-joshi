@@ -4,9 +4,7 @@
 
 <img src="./assets/svg/namaskar.svg" />
 
-<h3>
-  Software Engineer | Self-Taught | Enjoying Open Source Contributions
-</h3>
+<br both="clear">
 
 <!-- Social Media Badges -->
 <p>
