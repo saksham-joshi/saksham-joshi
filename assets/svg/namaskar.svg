@@ -16,10 +16,10 @@
 </style>
 
                 <path id='path0'>
-                            <!-- Multiline -->
+                            <!-- Single line -->
                                 <animate id='d0' attributeName='d' begin='0s;d0.end'
-                    dur='3000ms' fill="freeze"
-                    values='m0,46 h0 ; m0,46 h0 ; m0,46 h500 ; m0,46 h500' keyTimes='0;0;1;1' />
+                    dur='2500ms' fill='remove'
+                    values='m0,37.5 h0 ; m0,37.5 h500 ; m0,37.5 h500 ; m0,37.5 h0' keyTimes='0;0.16;0.96;1' />
                     </path>
     <text font-family='"Montserrat", monospace' fill='#36BCF7' font-size='41'
         dominant-baseline='middle'
