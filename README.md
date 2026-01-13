@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12&height=250&section=header&text=SAKSHAM%20JOSHI&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Loves%20Open-source%20Contributions%20%7C%20Leveling%20daily&descSize=18&descAlignY=55&descAlign=50)
+![Header](./assets/svg/header.svg)
 
 <img src="./assets/svg/namaskar.svg" />
 
