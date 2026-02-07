@@ -88,7 +88,7 @@
         <img src="https://img.shields.io/badge/View-Repository-00cbea?style=for-the-badge&logo=github" />
       </a>
       <p><strong>High-level, compiled + interpreted language</strong></p>
-      <p>Simple and Fast language developed using C++</p>
+      <p>Simple, Fast, statically+dynamically typed programming language developed using C++</p>
       <p>
         <img src="https://img.shields.io/github/stars/saksham-joshi/SRON?style=social" />
         <img src="https://img.shields.io/github/forks/saksham-joshi/SRON?style=social" />
@@ -97,15 +97,15 @@
   </tr>
   <tr>
     <td width="50%" align="center">
-      <h3>🎨 Nova Portfolio</h3>
-      <a href="https://github.com/saksham-joshi/NovaPortfolio">
-        <img src="https://img.shields.io/badge/View-Repository-07beb8?style=for-the-badge&logo=github" />
+      <h3>📈 Senti-Vox</h3>
+      <a href="https://github.com/saksham-joshi/SentiVox">
+        <img src="https://img.shields.io/badge/View-Repository-4489c8?style=for-the-badge&logo=github" />
       </a>
-      <p><strong>Beautiful ASMR-like Portfolio</strong></p>
-      <p>Clean and responsive portfolio designed for developers using ReactJS</p>
+      <p><strong>Site and API for Sentiment Analysis</strong></p>
+      <p>Superfast, accurate and multi-lingual sentiment analysis for free with support for English, Hindi, Marathi and Tamil.</p>
       <p>
-        <img src="https://img.shields.io/github/stars/saksham-joshi/NovaPortfolio?style=social" />
-        <img src="https://img.shields.io/github/forks/saksham-joshi/NovaPortfolio?style=social" />
+        <img src="https://img.shields.io/github/stars/saksham-joshi/SentiVox?style=social" />
+        <img src="https://img.shields.io/github/forks/saksham-joshi/SentiVox?style=social" />
       </p>
     </td>
   </tr>
