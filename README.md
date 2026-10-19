@@ -8,7 +8,7 @@
 
 <!-- Social Media Badges -->
 <p>
-  <a href="https://sakshamjoshi.vercel.app">
+  <a href="https://sakshamjoshi.com">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&labelColor=000000" height="28px" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/sakshamjoshi27/">
